@@ -1,5 +1,5 @@
 ![logo](https://github.com/Jihad7518/Jihad7518/blob/main/github-header-image.png)
-<h1 align="center">Hi 👋, I'm Md. Jihad</h1>
+
 <h3 align="center">A Passionate Software Engineer From Bangladesh.</h3>
 
 <img align="right" alt="coding" width="400" src="https://media.tenor.com/yasksYy1XekAAAAM/matrix-code.gif">
