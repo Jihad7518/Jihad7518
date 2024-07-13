@@ -1,4 +1,4 @@
-![logo](https://github.com/Jihad7518/Jihad7518/blob/main/github-header-image.png)
+![logo](https://github.com/Jihad7518/Jihad7518/blob/main/Dgithub-header-image.png)
 
 <h3 align="center">A Passionate Software Engineer & Data Scientist from Bangladesh.</h3>
 
